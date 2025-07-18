@@ -82,7 +82,7 @@ body {
 #luxury button {
   color: hsl(179, 100%, 13%);
 }
-@media (max-width: 375px) {
+@media (max-width: 600px) {
   #container {
     display: block;
     margin: 1rem;
